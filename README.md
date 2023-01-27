@@ -19,9 +19,9 @@ The codes below do not fully replicate the results since we cannot share the ful
 
 - `code_graph_theory.r`: this code replicates the figure 1a of the paper. 
 
-- `analysis_discontinuity.r`: this code replicates the discontinuity analysis for the case of Brazil. The code for other countries are equivalent, but with different data sources. 
+- `analysis_discontinuity.r`: this code replicates the discontinuity analysis for the case of Brazil. The code for other countries are equivalent, but with different data sources and ids for the communities. 
 
-- `analysis_toxicity.r`: this code replicates the toxicity analysis for the case of Brazil. The code for other countries are equivalent, but with different data sources. 
+- `analysis_toxicity.r`: this code replicates the toxicity analysis for the case of Brazil. The code for other countries are equivalent, but with different data sources and ids for the communities. 
 
 
 ## Data
