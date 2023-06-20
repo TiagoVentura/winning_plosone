@@ -5,7 +5,7 @@ Replication materials for Calvo, Ventura, Aruguete and Waisbord "Winning! Electi
 > __Abstract:__
 > This article analyzes social media engagement when elections are adjudicated to one of the contending parties. We extend existing models of political dialogue to explain differences in social media engagement (i.e. time-to-retweet) when users support the winner or losers of an election. We show that users who support the winning candidate are more engaged and have a lower time-to-retweet. We also show heterogeneity in Twitter engagement conditional on the number of followers, with accounts with more followers being less sensitive to the election result. We measure the effect of electoral adjudication using a regression discontinuity design, with estimates by winning or losing status, and for accounts with many followers (high authority) or with few followers (low authority). Analyses use Twitter data collected in Argentina (2019), Brazil (2018), the United Kingdom (2019), and the United States (2016).
 
-The latest pre-print can be found [here](). The published version is [here]()
+The latest pre-print can be found [here](CVAW_winning_preprint.pdf). The published version is [here](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0281475)
 
 ## Tutorial 
 
